@@ -4,10 +4,10 @@ INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES
 ;
 
 INSERT INTO `shops` (name, item, price) VALUES
-	('LTDgasoline', 'plongee1', 35000),
-	('RobsLiquor', 'plongee1', 35000),
-	('TwentyFourSeven', 'plongee1', 35000),
-	('LTDgasoline', 'plongee2', 50000),
-	('RobsLiquor', 'plongee2', 50000),
-	('TwentyFourSeven', 'plongee2', 50000)
+	('LTDgasoline', 'plongee1', 250),
+	('RobsLiquor', 'plongee1', 250),
+	('TwentyFourSeven', 'plongee1', 250),
+	('LTDgasoline', 'plongee2', 350),
+	('RobsLiquor', 'plongee2', 350),
+	('TwentyFourSeven', 'plongee2', 350)
 ;
