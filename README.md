@@ -12,6 +12,10 @@ After that, you need to buy one on this item on a shop, go near water and just u
 Once you have finish diving, you will need to go to a clotheshop to change you clothes.
 I will update the script later to change automatically clothe after finish diving. 
 
+# Change diving timer?
+You just have to change the value in **bold**
+SetPedMaxTimeUnderwater(GetPlayerPed(-1), **1500.00**)
+
 # What next?
 Fill free to update the script but don't forget to share or update this repository also.
 
