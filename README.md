@@ -14,6 +14,7 @@ I will update the script later to change automatically clothe after finish divin
 
 # Change diving timer?
 You just have to change the value in **bold**
+
 SetPedMaxTimeUnderwater(GetPlayerPed(-1), **1500.00**)
 
 # What next?
